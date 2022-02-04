@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Program Files (x86)/Git/Binary-search-tree-implemented-in-CPP/main.cpp
+iostream
+-
+my_tree.h
+D:/Program Files (x86)/Git/Binary-search-tree-implemented-in-CPP/my_tree.h
+
+D:/Program Files (x86)/Git/Binary-search-tree-implemented-in-CPP/my_tree.h
+stack
+-
+vector
+-
+algorithm
+-
+
