@@ -16,3 +16,4 @@
     - 5 1 --> post_order_rec   ||  5 3 --> post_order_it
     - 6 --> breadth
     - 7 --> size
+> 'rec' means that the method is implemented recursively while 'it' means that the method was implemented iteratively 
